@@ -4,27 +4,146 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25badb8f-606f-40b6-a777-55ed1eda6c72" name="Changes" comment="" />
+    <list default="true" id="25badb8f-606f-40b6-a777-55ed1eda6c72" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/basic/FormPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/basic/FormPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/interactions/SelectablePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/interactions/SelectablePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/basic/FormTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/basic/FormTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/interactions/SelectableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/interactions/SelectableTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2Ean4U2dEsT2w6Mn6cL6DedXvVX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/trainings/HomeworkLesson6&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\trainings\SeleniumBasic\src\main\resources\UploadFiles" />
+      <recent name="C:\trainings\SeleniumBasic\src\main\resources\DataProvider" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SelectableTest.checkSelectItem">
+    <configuration name="DatepickerTest.checkDateInDatepicker" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="widgets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="widgets" />
+      <option name="MAIN_CLASS_NAME" value="widgets.DatepickerTest" />
+      <option name="METHOD_NAME" value="checkDateInDatepicker" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DraggableTest.checkDragForSquare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interactions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interactions" />
+      <option name="MAIN_CLASS_NAME" value="interactions.DraggableTest" />
+      <option name="METHOD_NAME" value="checkDragForSquare" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DroppableTest.checkDragAndDrop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interactions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interactions" />
+      <option name="MAIN_CLASS_NAME" value="interactions.DroppableTest" />
+      <option name="METHOD_NAME" value="checkDragAndDrop" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FormTest.fillFormWithSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="basic" />
+      <option name="MAIN_CLASS_NAME" value="basic.FormTest" />
+      <option name="METHOD_NAME" value="fillFormWithSuccess" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectableTest.checkSelectItem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interactions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interactions" />
+      <option name="MAIN_CLASS_NAME" value="interactions.SelectableTest" />
+      <option name="METHOD_NAME" value="checkSelectItem" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SelectableTest.checkSelectItem" />
+        <item itemvalue="JUnit.FormTest.fillFormWithSuccess" />
+        <item itemvalue="JUnit.DatepickerTest.checkDateInDatepicker" />
+        <item itemvalue="JUnit.DraggableTest.checkDragForSquare" />
+        <item itemvalue="JUnit.DroppableTest.checkDragAndDrop" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,5 +154,21 @@
       <updated>1662842373304</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SeleniumBasic$FormTest_fillFormWithSuccess.ic" NAME="FormTest.fillFormWithSuccess Coverage Results" MODIFIED="1663093688457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>basic.*</FILTER>
+    </SUITE>
   </component>
 </project>

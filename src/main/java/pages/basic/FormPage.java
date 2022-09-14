@@ -16,9 +16,9 @@ import java.util.Objects;
 import java.util.Random;
 
 public class FormPage {
-
-
     private static final Logger logger = LoggerFactory.getLogger(FormPage.class);
+
+    private static final String websiteURL = "https://seleniumui.moderntester.pl/form.php";
 
     public FormPage(WebDriver driver) {
         PageFactory.initElements(driver, this);
@@ -68,6 +68,11 @@ public class FormPage {
 
     @FindBy(id = "validator-message")
     private WebElement validatorMessage;
+
+    public void getWebsiteURL(WebDriver driver) {
+        driver.get(websiteURL);
+        logger.info("Get on: {}", websiteURL);
+    }
 
     public FormPage setFirstName(String firstName) {
         this.firstName.sendKeys(firstName);
